@@ -1,0 +1,29 @@
+.item img{
+    height: 600px;
+    width:100%;
+}
+.p_info{
+    max-width: 600px;
+    margin: 100px 50px;
+    font-size: 25px;
+}
+.img-hover{
+    transition: transform 0.2s;
+}
+.img-hover:hover{
+    transform: scale(1.5);
+}
+.img-steps{
+    height: 300px;
+    width:350px;
+}
+.text{
+    font-size: 25px;
+}
+.effects{
+    text-align: left;
+    font-size: 20px;
+}
+ul{
+    list-style: square;
+}
